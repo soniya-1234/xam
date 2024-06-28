@@ -14,6 +14,7 @@ import ViewResume from './pages/viewResume';
 import HomePage1 from './components/homePage1';
 import Resume from './components/create';
 import Edu2 from './components/edu';
+import Resume2 from './components/resume';
 
 
 function App() {
@@ -33,6 +34,8 @@ function App() {
       <Route path='/homepage1' element={<HomePage1/>}/>
       <Route path='/create' element={<Resume/>}/>
       <Route path='/edu' element={<Edu2/>}/>
+      <Route path='/resu' element={<Resume2/>}/>
+
 
 
 
