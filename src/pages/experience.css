@@ -1,0 +1,94 @@
+ /* #box1{
+    height: 500px;
+    width: 900px;
+    border: 2px solid;
+    margin-left: 250px;
+    margin-top: 70px;
+} */
+.work{
+    font-size: 40px;
+    color: brown;
+    font-style: italic;
+    margin-left: 50px;
+    margin-top: 60px;
+} 
+/* .com1{
+    font-size: 20px;
+    margin-left: 20px;
+    color: brown;}  */
+
+
+    #sel1{
+        margin-left: 80px;
+        border-radius: 20px;
+                  }
+   
+/* #full{
+    background-image: url("../images/img5.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 200px;
+    margin-left: 200px;
+}                  */
+#img8{
+    background-image: url(../images/img5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+    width: 750px;
+    margin-left: 700px;
+
+}
+/* .fw-bold {
+    margin-left: 50px;
+    margin-top: 30px;
+} */
+.fw-bold1 {
+    position: absolute;
+    margin-left: 10px;
+    /* top: 30%;  */
+    top: 280%;
+    left: 10%; 
+    right: 70%;
+    transform: translate(-50%, -50%);
+    color: rgb(26, 88, 92); 
+    font-size: 30px; 
+    font-weight: bold; 
+    text-shadow: 2px 2px 4px rgba(5, 5, 5, 0.5); 
+  }
+  .fw-bold2 {
+    position: absolute;
+    margin-left: 10px;
+    top: 300%; 
+    left: 10%; 
+    right: 70%;
+    transform: translate(-50%, -50%);
+    color: rgb(26, 88, 92); 
+    font-size: 30px; 
+    font-weight: bold; 
+    text-shadow: 2px 2px 4px rgba(5, 5, 5, 0.5); 
+  }
+.fw-bold3 {
+    position: absolute;
+    margin-left: 10px;
+    top: 320%; 
+    left: 10%; 
+    right: 70%;
+    transform: translate(-50%, -50%);
+    color: rgb(26, 88, 92); 
+    font-size: 30px; 
+    font-weight: bold; 
+    text-shadow: 2px 2px 4px rgba(5, 5, 5, 0.5); 
+  }
+  .fw-bold4 {
+    position: absolute;
+    margin-left: 10px;
+    top: 340%; 
+    left: 10%; 
+    right: 70%;
+    transform: translate(-50%, -50%);
+    color: rgb(26, 88, 92); 
+    font-size: 30px; 
+    font-weight: bold; 
+    text-shadow: 2px 2px 4px rgba(5, 5, 5, 0.5); 
+  }

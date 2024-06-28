@@ -1,0 +1,17 @@
+.divhead{
+    background-color: antiquewhite;
+    height: 80px;
+    width: 1300px;
+    margin-left: 80px;
+}
+.name{
+    font-size: 60px;
+    margin-left: 570px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.add{
+    text-align: center;
+}
+.abo{
+
+}

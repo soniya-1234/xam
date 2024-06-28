@@ -1,0 +1,43 @@
+#id1{
+margin-left: 50px;
+font-size: 20px;
+}
+#id2{
+    margin-left: 120px;
+    font-size: 20px;
+    }
+ #id3{
+       margin-left: 200px;
+       font-size: 20px;
+        }
+ #id4{
+       margin-left: 280px;
+       font-size: 20px;
+          }
+#sel1{
+margin-left: 50px;
+border-radius: 20px;
+          }
+ #sel2{
+     margin-left: 120px;
+     border-radius: 20px;
+       }
+      #sel3{
+             margin-left: 200px;
+             border-radius: 20px;
+        }   
+             #sel4{
+                margin-left: 280PX;
+                border-radius: 20px;
+            }
+#cor{
+    margin-left: 50px;
+font-size: 20px;
+}
+       
+#sel{
+    margin-left: 10px;
+    border-radius: 20px;
+    width: 140px;
+              }
+    

@@ -1,0 +1,95 @@
+#img1{
+     height: 1300px;
+    width: 300px; 
+   
+}
+.image-text {
+    position: absolute;
+    margin-left: 100px;
+    top: 25%; 
+    left: 20%; 
+    right: 20%;
+    transform: translate(-50%, -50%);
+    color: rgb(171, 124, 147); 
+    font-size: 50px; 
+    font-weight: bold; 
+    text-shadow: 2px 2px 4px rgba(25, 23, 25, 0.949); 
+  }
+  .image-text2 {
+    position: absolute;
+    margin-left: 10px;
+    top: 60%; 
+    left: 10%; 
+    right: 70%;
+    transform: translate(-50%, -50%);
+    color: rgb(26, 88, 92); 
+    font-size: 30px; 
+    font-weight: bold; 
+    text-shadow: 2px 2px 4px rgba(5, 5, 5, 0.5); 
+  }
+#img3{
+    background-image: url(https://assets.resume-now.com/lp/_next/image?url=/blobimages/rna/sem/images/icon-writing-blue.svg&w=96&h=undefined&q=70);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 200px;
+
+}
+#img4{
+    background-image: url(https://assets.resume-now.com/lp/_next/image?url=/blobimages/rna/sem/images/icon-tip-green.svg&w=96&h=undefined&q=70);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 200px;
+
+}
+#img5{
+    background-image: url(https://assets.resume-now.com/lp/_next/image?url=/blobimages/rna/sem/images/icon-step.svg&w=96&h=undefined&q=70);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 200px;
+
+}
+#img6{
+    background-image: url(https://assets.resume-now.com/lp/_next/image?url=/blobimages/rna/sem/images/icon-design-blue.svg&w=96&h=undefined&q=70);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 200px;
+
+}
+
+#img7{
+    background-image: url(https://assets.resume-now.com/lp/_next/image?url=/blobimages/rna/sem/images/icon-chat.svg&w=96&h=undefined&q=70);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 600px;
+
+}
+.we1{
+    margin-left: 10%;
+    margin-right: 30%;
+    margin-top: 5%;
+  font-size: 20px;
+}
+.we2{
+    margin-left: 60%;
+    margin-right: -20%;
+    margin-top: 5%;
+  font-size: 20px;
+}
+.box2{
+    background-color: rgb(209, 240, 240);
+}
